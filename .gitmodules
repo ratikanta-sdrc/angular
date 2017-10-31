@@ -4,3 +4,6 @@
 [submodule "nested-component"]
 	path = nested-component
 	url = https://github.com/ratikanta-sdrc/angular-nested-component.git
+[submodule "pipes"]
+	path = pipes
+	url = https://github.com/ratikanta-sdrc/angular-pipes.git
