@@ -7,3 +7,6 @@
 [submodule "pipes"]
 	path = pipes
 	url = https://github.com/ratikanta-sdrc/angular-pipes.git
+[submodule "observable"]
+	path = observable
+	url = https://github.com/ratikanta-sdrc/angular-observable.git
