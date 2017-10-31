@@ -10,3 +10,6 @@
 [submodule "observable"]
 	path = observable
 	url = https://github.com/ratikanta-sdrc/angular-observable.git
+[submodule "promise"]
+	path = promise
+	url = https://github.com/ratikanta-sdrc/angular-promise.git
