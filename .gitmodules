@@ -13,3 +13,6 @@
 [submodule "promise"]
 	path = promise
 	url = https://github.com/ratikanta-sdrc/angular-promise.git
+[submodule "interface"]
+	path = interface
+	url = https://github.com/ratikanta-sdrc/angular-interface.git
