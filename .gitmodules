@@ -16,3 +16,6 @@
 [submodule "interface"]
 	path = interface
 	url = https://github.com/ratikanta-sdrc/angular-interface.git
+[submodule "angular-routing"]
+	path = angular-routing
+	url = https://github.com/ratikanta-sdrc/angular-routing
