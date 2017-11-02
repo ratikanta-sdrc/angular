@@ -22,3 +22,6 @@
 [submodule "accessmodifier"]
 	path = accessmodifier
 	url = https://github.com/ratikanta-sdrc/angular-accessmodifiers.git
+[submodule "di"]
+	path = di
+	url = https://github.com/ratikanta-sdrc/angular-di.git
