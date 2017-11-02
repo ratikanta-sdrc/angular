@@ -19,3 +19,6 @@
 [submodule "angular-routing"]
 	path = angular-routing
 	url = https://github.com/ratikanta-sdrc/angular-routing
+[submodule "accessmodifier"]
+	path = accessmodifier
+	url = https://github.com/ratikanta-sdrc/angular-accessmodifiers.git
