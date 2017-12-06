@@ -25,3 +25,6 @@
 [submodule "di"]
 	path = di
 	url = https://github.com/ratikanta-sdrc/angular-di.git
+[submodule "HttpClientGet"]
+	path = HttpClientGet
+	url = https://github.com/ratikanta-sdrc/HttpClientGet.git
